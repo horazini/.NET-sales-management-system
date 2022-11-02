@@ -1,0 +1,9 @@
+Directorio:
+C:\Users\juanpc\Documents\Visual Studio 2015\Projects
+
+
+Usuarios:
+Tipo perfil	nombre de usuario	contraseña
+3 - sistema	sistemas		12345
+2 - gestión	gestion			12345
+1 - cajero	cajero			12345
